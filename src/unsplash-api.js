@@ -8,7 +8,7 @@ export default async function fetchImages(query, page = 1) {
       orientation: "landscape",
     },
     headers: {
-      Authorization: "Client-ID 8y18thz3UUrIKwXRgyV81_zA6kF75MMw8gfAIXVIckg",
+      Authorization: "Client-ID EBjziMle-dv85dMarrmiNJPYOewFH3Sip-ZcbGd-rLE",
     },
   });
   return response;
